@@ -1,6 +1,7 @@
 import pickle
 from song import Song
 from playlist import PlayList
+import time
 
 class Manager:
     def __init__(self):
@@ -39,6 +40,24 @@ class Manager:
             playlist_name = input("Enter name for a new playlist: ")
             self.create_playlist(playlist_name)
             self.current_playlist = self.playlists[playlist_name]
+
+    def autoplay(self):
+        '''
+        time.sleep and interrupt from: 
+        https://ioflood.com/blog/python-wait/#:~:text=In%20this%20example%2C%20if%20an,the%20next%20line%20of%20code.
+        '''
+        print(f"Total autoplay time will be: {self.current_playlist.total_runtime()} minutes. Press ctrl + c to end early")
+        self.current_playlist.cur = self.current_playlist.start
+        while self.current_playlist.cur:
+            try:
+                delay = self.current_playlist.cur.run_time * 60
+                self.current_playlist.play_current()
+                time.sleep(delay)
+                self.current_playlist.cur = self.current_playlist.cur.next
+            except KeyboardInterrupt:
+                print("Returning to main menu")
+                self.current_playlist.cur = None
+
 
     def create_playlist(self, name: str):
         """

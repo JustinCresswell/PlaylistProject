@@ -18,7 +18,7 @@ def main():
             print("\n--- 🪩 Playlist Manager 🪩 ---")
             print("1. Create a new playlist 🟢")
             print("2. Select an existing playlist 🔢")
-            print("4. Save state 📥")  
+            print("3. Save state 📥")  
             print("0. Exit 🛑")          
         else:
             print(f"\n--- 🎧 {manager.current_playlist.name} 🎧 ---")
@@ -31,7 +31,8 @@ def main():
             print("7. Display available songs 🗒️")
             print("8. Save state 📥")
             print("9. Share Playlist >>>")
-            print('10. type "redo" or "undo" to revert any changes')
+            print('10. Type "redo" or "undo" to revert any changes')
+            print('11. Type "auto" to autoplay current playlist')
             print("0. Exit 🛑")
             
             # total amount of time for the playlist by ⌛
@@ -49,7 +50,7 @@ def main():
                 manager.create_playlist(playlist_name)
             elif choice == '2':
                 manager.select_or_create_playlist()
-            elif choice == '4':
+            elif choice == '3':
                 manager.save_state("manager_state.pkl")    
         if choice == '0':
             confirm_exit = input("Are you sure you want to exit? (y/n): ").lower()
@@ -79,6 +80,8 @@ def main():
                 manager.redo()
             elif choice.lower() == "undo":
                 manager.undo()
+            elif choice.lower() == "auto":
+                manager.autoplay()
         if choice == '0':
             confirm_exit = input("Are you sure you want to exit? (y/n): ").lower()
             if confirm_exit == 'y':
