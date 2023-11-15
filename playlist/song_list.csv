@@ -1,0 +1,101 @@
+id,artist,song_name,youtube_id,views,run_time
+1,Ed Sheeran,Shape of You,JGwWNGJdvx8,5000000000,4.5
+2,Ed Sheeran,Perfect,2Vv-BfVoq4g,4900000000,4.2
+3,Taylor Swift,Love Story,8xg3vE8Ie_E,4800000000,3.8
+4,Taylor Swift,Blank Space,e-ORhEE9VVg,4700000000,4.1
+5,Dua Lipa,Levitating,TUVcZfQe-Kw,4600000000,3.9
+6,Dua Lipa,Don't Start Now,oygrmJFKYZY,4500000000,3.7
+7,Maroon 5,Girls Like You,aJOTlE1K90k,4400000000,4.0
+8,Maroon 5,Sugar,09R8_2nJtjg,4300000000,4.3
+9,Ariana Grande,Thank U Next,gl1aHhXnN1k,4200000000,3.6
+10,Ariana Grande,7 rings,QYh6mYIJG2Y,4100000000,3.5
+11,ACDC,Back In Black,pAgnJDJN4VA,4000000000,4.4
+12,ACDC,Thunderstruck,v2AC41dglnM,3900000000,5.0
+13,Eminem,Lose Yourself,7YuAzR2XVAM,3800000000,4.8
+14,Eminem,Mockingbird,S9bCLPwzSC0,3700000000,4.6
+15,Adele,Hello,YQHsXMglC9A,3600000000,4.7
+16,Adele,Someone Like You,hLQl3WQQoQ0,3500000000,4.9
+17,Ed Sheeran,Photograph,nSDgHBxUbVQ,3400000000,4.4
+18,Taylor Swift,Bad Blood,QcIy9NiNbmo,3300000000,3.9
+19,Dua Lipa,Physical,9HDEHj2yzew,3200000000,3.8
+20,Maroon 5,Payphone,KRaWnd3LJfs,3100000000,4.0
+21,Ariana Grande,Into You,1ekZEVeXwek,3000000000,4.1
+22,ACDC,High Voltage,Nnjh-zp6pP4,2900000000,4.5
+23,Eminem,Without Me,YVkUvmDQ3HY,2800000000,4.3
+24,Adele,Rolling in the Deep,rYEDA3JcQqw,2700000000,3.7
+25,Ed Sheeran,Castle on the Hill,K0ibBPhiaG0,2600000000,4.2
+26,Taylor Swift,1989,JLf9q36UsBk,2500000000,4.6
+27,Dua Lipa,New Rules,k2qgadSvNyU,2400000000,4.0
+28,Maroon 5,This Love,XPpTgCho5ZA,2300000000,3.6
+29,Ariana Grande,No Tears Left To Cry,ffxKSjUwKdU,2200000000,4.0
+30,ACDC,You Shook Me All Night Long,Lo2qQmj0_h4,2100000000,4.7
+31,Ariana Grande,Break Up with Your Girlfriend - I'm Bored,LH4Y1ZUUx2g,690000000,3.8
+32,ACDC,Hells Bells,etAIpkdhU9Q,670000000,5.1
+33,Eminem,The Monster (feat. Rihanna),EHkozMIXZ8w,650000000,4.2
+34,Adele,Skyfall,q-gLRp5bSpw,630000000,4.5
+35,Ed Sheeran,The A Team,UAWcs5H-qgQ,610000000,4.3
+36,Taylor Swift,Gorgeous,kzt84XoMAMA,590000000,3.6
+37,Dua Lipa,Blow Your Mind (Mwah),1nydxbGhgv8,570000000,3.3
+38,Maroon 5,Love Somebody,MU8B4XDI3Uw,550000000,3.5
+39,Ariana Grande,Problem (feat. Iggy Azalea),iS1g8G_njx8,530000000,3.3
+40,ACDC,Moneytalks,2lqdErI9uss,510000000,3.9
+41,Eminem,Love The Way You Lie,uelHwf8o7_U,470000000,4.7
+42,Adele,Make You Feel My Love,0put0_a--Ng,450000000,3.4
+43,Ed Sheeran,Don't,iD2rhdFRehU,430000000,3.6
+44,Taylor Swift,Me! (feat. Brendon Urie),FuXNumBwDOM,410000000,3.2
+45,Dua Lipa,Swan Song,kO8fTk6oKQg,390000000,3.4
+46,Maroon 5,Memories,SlPhMPnQ58k,380000000,3.5
+47,Ariana Grande,The Way (feat. Mac Miller),_sV0S8qWSy0,360000000,3.6
+48,ACDC,For Those About To Rock,8fPf6L0XNvM,350000000,5.2
+49,Eminem,Not Afraid,j5-yKhDd64s,330000000,4.2
+50,Adele,Turning Tables,bsFCO8-oCEQ,320000000,4.0
+51,Ed Sheeran,Lego House,c4BLVznuWnU,310000000,4.3
+52,Taylor Swift,Style,-CmadmM5cOk,300000000,3.9
+53,Dua Lipa,Hallucinate,qcZ7e9EOQTY,290000000,3.2
+54,Maroon 5,Cold (feat. Future),XatXy6ZhKZw,280000000,3.8
+55,Ariana Grande,7 Rings Remix,GFcqCU36NQ4,270000000,3.5
+56,ACDC,Who Made Who,PiZHNw1MtzI,260000000,3.3
+57,Eminem,Cleanin' Out My Closet,RQ9_TKayu9s,250000000,4.6
+58,Adele,Rumor Has It,xgJyoKUHzpQ,240000000,3.8
+59,Ed Sheeran,Kiss Me,RkH5cJOBDk0,230000000,4.2
+60,Taylor Swift,Out of The Woods,JLf9q36UsBk,220000000,3.5
+61,Dua Lipa,One Kiss (with Calvin Harris),DkeiKbqa02g,210000000,3.7
+62,Maroon 5,Wait,4uTNVumfm84,200000000,3.2
+63,Ariana Grande,Dangerous Woman,9WbCfHutDSE,190000000,3.8
+64,ACDC,Rock Or Bust,_NdHySPJr8I,180000000,3.4
+65,Eminem,Real Slim Shady,eJO5HU_7_1w,750000000,4.1
+66,Adele,Set Fire to the Rain,d9bB8csLSug,740000000,4.3
+67,Ed Sheeran,Galway Girl,87gWaABqGYs,730000000,3.5
+68,Taylor Swift,Wildest Dreams,IdneKLhsWOQ,720000000,3.9
+69,Dua Lipa,IDGAF,Mgfe5tIwOj0,710000000,3.8
+70,Maroon 5,Animals,qpgTC9MDx1o,700000000,3.7
+71,Ariana Grande,God is a woman,kHLHSlExFis,680000000,3.9
+72,ACDC,Rock and Roll Ain't Noise Pollution,X_IWlPHMziU,660000000,4.1
+73,Eminem,Stan,gOMhN-hfMtY,640000000,5.3
+74,Adele,When We Were Young,DDWKuo3gXMQ,620000000,4.9
+75,Ed Sheeran,I Don't Care (with Justin Bieber),y83x7MgzWOA,600000000,3.4
+76,Taylor Swift,You Need To Calm Down,Dkk9gvTmCXY,580000000,2.9
+77,Dua Lipa,Be The One,-rey3m8SWQI,560000000,3.2
+78,Maroon 5,Maps,NmugSMBh_iI,540000000,3.1
+79,Ariana Grande,Side To Side,SXiSVQZLje8,520000000,3.4
+80,ACDC,T.N.T.,rB9-McrpJew,500000000,3.6
+81,Eminem,Rap God,XbGs_qK2PQA,490000000,6.4
+82,Adele,Water Under The Bridge,LFT-Fs-A59g,480000000,3.7
+83,Ed Sheeran,Beautiful People,mj0XInqZMHY,460000000,3.1
+84,Taylor Swift,End Game,dfnCAmr569k,440000000,4.0
+85,Dua Lipa,Break My Heart,Nj2U6rhnucI,420000000,3.9
+86,Maroon 5,Won't Go Home Without You,VlMEGBsw6j8,400000000,3.8
+87,Ariana Grande,Breathin,kN0iD0pI3o0,390000000,3.2
+88,ACDC,Let There Be Rock,3f2g4RMfhS0,380000000,6.2
+89,Eminem,My Name Is,sNPnbI1arSE,370000000,4.2
+90,Adele,Chasing Pavements,08DjMT-qR9g,360000000,3.5
+91,Ed Sheeran,Thinking Out Loud,lp-EO5I60KA,340000000,4.1
+92,Taylor Swift,Delicate,tCXGJQYZ9JA,320000000,3.7
+93,Dua Lipa,Hotter Than Hell,fEOyePhElr4,310000000,3.3
+94,Maroon 5,She Will Be Loved,nIjVuRTm-dc,290000000,4.1
+95,Ariana Grande,Imagine,fGeH483gNOg,280000000,3.4
+96,ACDC,Shot in the Dark,54LEywabkl4,270000000,3.6
+97,Eminem,The Way I Am,mQvteoFiMlg,260000000,4.3
+98,Adele,All I Ask,9q4VNoktq-I,250000000,4.5
+99,Ed Sheeran,Cross Me,S5n9emOr7SQ,240000000,3.3
+100,Taylor Swift,Shake It Off,nfWlot6h_JM,230000000,3.9
